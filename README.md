@@ -1,6 +1,6 @@
 # Cinema Software OOP 👾
 
-## Cinima Software OOP  is a software for buy and watch void seats for film. This born as a university project, created with python and thought for be deployed in the server side of a web application.
+## Cinema Software OOP  is a software for buy and watch void seats for film. This born as a university project, created with python and thought for be deployed in the server side of a web application.
 
 ## Contact Me
 
